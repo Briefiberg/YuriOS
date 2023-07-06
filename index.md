@@ -2,7 +2,7 @@
 # Credits
 Wallpaper From Google Settings Icon From Google
 # Run Online
-### [Run Yuri OS V2.0 Online](YuriOSV2.0)
+### [Run V2.0 Online](YuriOSV2.0)
 # Download V2.0
 ### [Download V2.0](YuriOSV2.0.zip)
 # Download V1.0
